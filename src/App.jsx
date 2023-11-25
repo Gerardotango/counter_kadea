@@ -17,7 +17,8 @@ export default function App() {
   }
   return (
     <main>
-      <h1>hello</h1>
+      <h1>hello gerardo</h1>
+
       <div>
         <Button onClick={resetCounter}>Reset</Button>
       </div>
